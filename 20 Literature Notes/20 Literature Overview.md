@@ -1,10 +1,14 @@
 ```dataview  
 TABLE  
 title as Title,  
-FirstAuthor as "First Author",  
-Year as Year,  
 itemType as Item,  
-Citekey as Citekey,  
-Contribution as Contribution  
-FROM "[20 Literature Notes]"  
+status as Status,  
+dateread as Read,  
+contribution as Contribution  
+WHERE contains(tags, "[insert your project name here]")  
+SORT status DESC, read DESC  
 ```
+
+**remember to change the tag that you want to use to include cited articles in the code snippet above to match your project name
+
+This is a table to show all the papers that you've shortlisted to be cited, and their respective contributions. To include a paper in this table, just add #[insert your project name here] to the tags field of the respective literature note you want to cite

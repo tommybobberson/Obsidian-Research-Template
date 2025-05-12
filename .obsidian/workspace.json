@@ -4,195 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "af7954562d89a951",
+        "id": "ffa844caad206520",
         "type": "tabs",
         "children": [
           {
-            "id": "e6b8fae6cb2cf56a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "outline.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "outline"
-            }
-          },
-          {
-            "id": "0e30c9294c7bb9a7",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "40 Attachments/Pasted image 20250502115905.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250502115905"
-            }
-          },
-          {
-            "id": "488b2b1013d39117",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "40 Attachments/Pasted image 20250502120115.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250502120115"
-            }
-          },
-          {
-            "id": "b13436b772bdb157",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "40 Attachments/Pasted image 20250502115905.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250502115905"
-            }
-          },
-          {
-            "id": "8b9bfacdfce71a18",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "40 Attachments/Pasted image 20250502120115.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250502120115"
-            }
-          },
-          {
-            "id": "e34a10bd252465d2",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "40 Attachments/Pasted image 20250502115905.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250502115905"
-            }
-          },
-          {
-            "id": "dbca322e75b72f4c",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "40 Attachments/Pasted image 20250502120115.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250502120115"
-            }
-          },
-          {
-            "id": "7cc38ff6eb6074a0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 Working Space/outline.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "outline"
-            }
-          },
-          {
-            "id": "40852ee66c449314",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "90 Meta/Templates/ZI - Literature Note.md.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ZI - Literature Note.md"
-            }
-          },
-          {
-            "id": "a83cad3e85dd1b73",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "90 Meta/Templates/ZI - Literature Note.md.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ZI - Literature Note.md"
-            }
-          },
-          {
-            "id": "b57b0c1d056f0780",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "90 Meta/Templates/ZI - Literature Note.md.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ZI - Literature Note.md"
-            }
-          },
-          {
-            "id": "40f529cc450eedc6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "90 Meta/Templates/ZI - Literature Note.md.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ZI - Literature Note.md"
-            }
-          },
-          {
-            "id": "7ca6d4f0ce7fcf8d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "90 Meta/Templates/ZI - Literature Note.md.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ZI - Literature Note.md"
-            }
-          },
-          {
-            "id": "fb6c942036d1dabc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "90 Meta/Templates/ZI - Literature Note.md.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ZI - Literature Note.md"
-            }
-          },
-          {
-            "id": "2801986266fe0c49",
+            "id": "404a56f4ba123594",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -204,23 +20,8 @@
               "icon": "lucide-file",
               "title": "20 Literature Overview"
             }
-          },
-          {
-            "id": "f950ff78844b3f88",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tracker.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Tracker"
-            }
           }
-        ],
-        "currentTab": 14
+        ]
       }
     ],
     "direction": "vertical"
@@ -368,9 +169,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2801986266fe0c49",
+  "active": "404a56f4ba123594",
   "lastOpenFiles": [
+    "20 Literature Notes/README.md",
     "90 Meta/Templates/ZI - Literature Note.md.md",
+    "README.md",
     "20 Literature Notes/20 Literature Overview.md",
     "40 Attachments/40 README.md.md",
     "Read.Me.md",
@@ -413,8 +216,6 @@
     "40 Attachments 1/41 Excalidraw/selection bias 2025-04-30 11.39.00.excalidraw.md",
     "40 Attachments 1/41 Excalidraw/Regression 2025-05-11 02.51.26.excalidraw.md",
     "40 Attachments 1/41 Excalidraw/paths 2025-04-24 14.11.59.excalidraw.md",
-    "40 Attachments 1/41 Excalidraw/Nodes 2025-04-23 10.47.23.excalidraw.md",
-    "40 Attachments 1/41 Excalidraw/Linear Regression 2025-05-11 13.50.36.excalidraw.md",
-    "40 Attachments 1/41 Excalidraw/d seperation 2025-04-24 14.25.19.excalidraw.md"
+    "40 Attachments 1/41 Excalidraw/Nodes 2025-04-23 10.47.23.excalidraw.md"
   ]
 }

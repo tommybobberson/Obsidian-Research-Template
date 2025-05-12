@@ -3,7 +3,7 @@ category: literaturenote
 tags: {% if allTags %}{{allTags}}{% endif %}
 citekey: {{citekey}}
 doi: {{DOI}}
-status: unread
+status: unread, uncited
 dateread:
 ---
 # [{{title}}]({{desktopURI}})
